@@ -51,9 +51,7 @@ php artisan serve
 ```
 This will start your application, visit: http://localhost:8000/
 
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## Usage
 
 Admin user
 email: admin@admin.com
@@ -62,3 +60,8 @@ pass: password
 Normal User:
 email: user@user.com
 pass: password
+
+## License
+
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
